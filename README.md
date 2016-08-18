@@ -1,6 +1,6 @@
 # TSOGDIR
 
-The State of Game Development talk for the Rust Denver/Boulder Meetup. This was a talk that I gave for the Rust Denver/Boulder meetup. Slides can be found [here](https://github.com/LucioFraco/TSOGDIR/blob/master/slides.pdf).
+The State of Game Development talk for the Rust Denver/Boulder Meetup. This was a talk that I gave for the Rust Denver/Boulder meetup. Slides can be found [here](https://github.com/LucioFranco/TSOGDIR/blob/master/slides.pdf).
 
 ## Links
 
