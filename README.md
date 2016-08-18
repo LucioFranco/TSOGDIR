@@ -13,7 +13,7 @@ The State of Game Development talk for the Rust Denver/Boulder Meetup. This was 
 ### Libraries
 
 - [Glium](https://github.com/tomaka/glium)
-- [gfx-rs](https://github.com/gfx)
+- [gfx-rs](https://github.com/gfx-rs/gfx)
 - [Specs](https://github.com/slide-rs/specs)
 - [Vulkano](https://github.com/tomaka/vulkano)
 - [metal-rs](https://github.com/fkaa/metal-rs)
